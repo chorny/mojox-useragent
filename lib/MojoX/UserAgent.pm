@@ -2,6 +2,7 @@
 
 package MojoX::UserAgent;
 
+use 5.006;
 use warnings;
 use strict;
 
